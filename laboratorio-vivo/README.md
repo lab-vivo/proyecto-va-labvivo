@@ -1,6 +1,6 @@
 # Laboratorio VIVO
 
-https://observablehq.com/@lab-vivo/laboratorio-vivo@82
+https://observablehq.com/@lab-vivo/laboratorio-vivo@83
 
 View this notebook in your browser by running a web server in this folder. For
 example:
